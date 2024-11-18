@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap");
+  
+@import url("https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&display=swap");
+  
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: beige;
+  color: black;
+}
+canvas {
+  display: block;
+  margin:auto;
+}
+
+button {
+  font-weight: bold;
+}
+
+#button-holder {
+  padding-top: 1px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  margin: auto;
+  justify-content: center;
+}
+
+
+h1 {
+  font-family: 'News Cycle', cursive;
+  font-size: xxx-large;
+  margin: auto;
+  text-align: Center;
+  font-weight: bold;
+  padding-bottom: 1px;
+}
+
+
+h2 {
+  font-family: 'News Cycle', cursive;
+  font-size: medium;
+  margin: auto;
+  text-align: Center;
+  font-weight: bold;
+  padding-bottom: 10px;  
+}
+
+
+
+p {
+  font-family: 'News Cycle', cursive;
+  font-size: medium;
+  margin: auto;
+  text-align: Center;
+  font-weight: bold;
+  padding-bottom: 10px;  
+}
+
+p2 {
+  font-family: 'News Cycle', cursive;
+  font-size: medium;
+  margin: auto;
+  text-align: Center;
+  font-weight: bold;
+  padding-bottom: 25px;  
+}
+
+p3 {
+  font-family: 'News Cycle', cursive;
+  font-size: medium;
+  margin: auto;
+  text-align: Center;
+  font-weight: bold;
+  padding-bottom: 10px;  
+}
+
+p4 {
+  font-family: 'News Cycle', cursive;
+  font-size: medium;
+  margin: auto;
+  text-align: Center;
+  font-weight: bold;
+  padding-bottom: 10px;  
+}
+
+p5 {
+  font-family: 'News Cycle', cursive;
+  font-size: medium;
+  margin: auto;
+  text-align: Center;
+  font-weight: bold;
+  padding-bottom: 10px;  
+}
+
+p6 {
+  font-family: 'News Cycle', cursive;
+  font-size: medium;
+  margin: auto;
+  text-align: Center;
+  font-weight: bold;
+  padding-bottom: 10px;  
+}
