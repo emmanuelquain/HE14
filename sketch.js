@@ -6,8 +6,6 @@
 //At least 2 other buttons that draws things on the screen in some way (shapes, more images, lines, a clear screen feature, etc)
 //HTML and CSS used to add colors, fonts, and text that explain the drawing machine.
 //All of this should be themed/unified in some way!
-
-
 //at least 2 
 //A button to save the canvas as an image
 //Music that plays when a button is pressed
